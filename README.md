@@ -2,6 +2,8 @@
 
 A simple, browser-based audio sampler that allows you to load, play, and export audio loops. Built with vanilla JavaScript and the WaveSurfer.js library.
 
+[Try the Live Demo](https://joshc121.github.io/AudioSampler)
+
 ## Features
 
 - Drag and drop audio file loading
